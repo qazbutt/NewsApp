@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Guardian News App</string>
+  <string name="about">About</string>
+  <string name="enter_search_term">Search News</string>
+  <string name="no_internet">No Internet</string>
+  <string name="error_string">An error occurred !!</string>
+  <string name="attribution_message">This product uses the Guardian API but is not endorsed or certified by Guardian.</string>
+</resources>
